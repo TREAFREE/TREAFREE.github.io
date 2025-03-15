@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Iansui';
+    src: url('/fonts/Iansui-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* 应用到主标题 */
+  #site-title {
+    font-family: 'Iansui', sans-serif !important;
+  }
+  
+  /* 应用到副标题 */
+  #subtitle {
+    font-family: 'Iansui', sans-serif !important;
+  }
+  
