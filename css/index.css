@@ -1490,6 +1490,13 @@ a {
 a:hover {
   color: #49b1f5;
 }
+#site-title,
+#site-subtitle,
+.site-name,
+#aside-content .author-info-name,
+#aside-content .author-info-description {
+  font-family: 'Pacifico', cursive;
+}
 .text-center {
   text-align: center;
 }
@@ -2028,6 +2035,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
+  font-family: 'Pacifico', cursive;
 }
 @media screen and (max-width: 768px) {
   .type-404 .error-content .error-info {
